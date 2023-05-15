@@ -1,0 +1,8 @@
+cd "I:\devensh\academic\8th sem\subjects\sem_project\code_vr_2\django_server_here\fms_serv"
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUs
+.\Scripts\Activate  
+
+cd "I:\devensh\academic\8th sem\subjects\sem_project\code_vr_2\django_server_here\fms_serv"
+
+py manage.py runserver

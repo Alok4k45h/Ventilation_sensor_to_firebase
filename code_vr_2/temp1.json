@@ -1,0 +1,12 @@
+{
+    "s1_intake": 
+	{
+		"temp": {"time_1": 20, "time_2": 40},
+		"hum": {"time_1": 20, "time_2": 40}
+	},
+    "s2_return": 
+	{
+		"temp": {"time_1": 20, "time_2": 40},
+		"hum": {"time_1": 20, "time_2": 40}
+	}
+}
